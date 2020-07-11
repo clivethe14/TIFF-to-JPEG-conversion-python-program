@@ -8,5 +8,7 @@ For the converted files to be stored in a new directory input absolute path of n
 if the file in the directory is of a format other than TIFF or a non image format the code will throw and exception and move to the next file
 
 Pre requisits for the code to run:
+
 1.Python version 3.8.1 (https://www.python.org/downloads/release/python-381/)
+
 2.installation of Pillow Library for Python (https://pillow.readthedocs.io/en/stable/installation.html)
